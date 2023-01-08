@@ -29,8 +29,13 @@ IF you're on Linux machine, please also install this Multi-lingual software spee
 ```
 sudo apt-get install libespeak-dev
 ```
+### 4. Obtain GPT-3 API KEY
+Sign up and Login to your OpenAI account.
+<br/>
+<img src="https://github.com/wen-da-ng/GPT-3_voice-assistant/blob/main/.images/Login_page.jpg?raw=true" width=15% height=15%>
+<br/>
 
-### 4. Run the program
+### 5. Run the program
 ```
 python3 chatGPT_VA.py
 ```
