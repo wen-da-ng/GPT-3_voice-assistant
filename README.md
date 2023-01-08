@@ -1,4 +1,4 @@
-# GPT-3_voice-assistant
+# GPT-3_Voice-Assistant
 This is just a casual 5 minutes project that apply the state-of-the-art language processing model developed by OpenAI, GPT-3 on a Python based voice assistant.
 
 ## Step-by-step
