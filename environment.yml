@@ -1,4 +1,4 @@
-name: chatGPT_VA
+name: GPT3_VA
 channels:
   - defaults
 dependencies:
