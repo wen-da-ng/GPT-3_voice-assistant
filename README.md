@@ -1,4 +1,7 @@
 # GPT-3_Voice-Assistant
+
+![OpenAI](https://img.shields.io/badge/API-OpenAi-black)   ![J4F](https://img.shields.io/badge/casual-Just%20For%20Fun-brightgreen)
+<br/>
 This is just a casual 5 minutes project that apply the state-of-the-art language processing model developed by OpenAI, GPT-3 on a Python based voice assistant.
 
 ## Step-by-step
